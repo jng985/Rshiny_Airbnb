@@ -134,7 +134,7 @@ tab6 <- tabPanel(
          h4("Creates a word cloud where word size indicates higher frequency in listing names."),
          br(),
          h3("The dataset comes from http://insideairbnb.com/get-the-data.html and was compiled on 12/4/2019."),
-         h3("Application Source code: "),
+         h3("Application Source code: https://github.com/jng985/Rshiny_Airbnb"),
          br()
   )
 )
