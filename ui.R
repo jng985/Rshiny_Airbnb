@@ -133,6 +133,7 @@ tab6 <- tabPanel(
          h4("The words in the word cloud are extraced from from the listing names (The names column in the data table)."),
          h4("Creates a word cloud where word size indicates higher frequency in listing names."),
          br(),
+         h3("All plots in each tab dynamically change as the data table on the bottom changes."),
          h3("The dataset comes from http://insideairbnb.com/get-the-data.html and was compiled on 12/4/2019."),
          h3("Application Source code: https://github.com/jng985/Rshiny_Airbnb"),
          br()
